@@ -1,5 +1,94 @@
-/* Add CSS to this file */
+h1 {
+  font-size: 20px;
+}
 
-body {
-  background-color: white;
+ h5 {
+   font-size: 13px;
+ }
+
+ header h1 {
+   display: inline-block;
+  padding-top: 15px;
+  padding-left: 15px;
+  font-weight: bold;
+ }
+
+ header h5 {
+   display: inline-block;
+   float: right;
+   padding-top: 17px;
+   padding-right: 15px;
+   font-weight: bold;
+   text-decoration: underline;
+ }
+
+ header {
+   background-color: #b30f0ff5;
+   color: white;
+   height: 50px;
+ }
+
+ nav {
+   background-color: #0e0e0ed1;
+   color: white;
+   height: 30px;
+ }
+
+ nav li {
+  display: inline-block;
+  margin-top: 5px;
+  text-decoration: underline;
+  padding-left: 2px;
+  padding-right: 2px;
+ }
+
+ .nav-list {
+   margin-left: 1300px;
+ }
+
+footer {
+  background-color: #0e0e0ed1;
+  height: 500px;
+}
+
+#art-museum-pic {
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+article {
+  padding-top: 10px;
+  padding-left: 35px;
+  padding-bottom: 35px;
+}
+
+#museum-section {
+  width: 840px;
+}
+
+div section {
+  display: inline-block;
+}
+
+#sidebar {
+margin-left: 80px;
+}
+
+#molly-brown-pic {
+  margin-bottom: 100px;
+}
+
+#sidebar h3 {
+  margin-top: 60px;
+}
+
+#sidebar img{
+  margin-top: 10px;
 }
