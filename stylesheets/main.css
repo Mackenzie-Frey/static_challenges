@@ -48,7 +48,14 @@ h1 {
 
 footer {
   background-color: #0e0e0ed1;
-  height: 500px;
+  height: 100px;
+}
+
+footer p {
+  color: white;
+  width: 1200px;
+  margin-left: 20px;
+  padding-top: 22px;
 }
 
 #art-museum-pic {
@@ -87,6 +94,7 @@ margin-left: 80px;
 
 #sidebar h3 {
   margin-top: 60px;
+  font-weight: bold;
 }
 
 #sidebar img{
