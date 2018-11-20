@@ -60,7 +60,6 @@ footer p {
 
 #art-museum-pic {
   padding-left: 30px;
-  padding-top: 30px;
   padding-bottom: 20px;
 }
 
@@ -85,16 +84,20 @@ div section {
 }
 
 #sidebar {
-margin-left: 80px;
+  margin-left: 80px;
+  margin-top: 20px;
 }
 
 #molly-brown-pic {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 #sidebar h3 {
-  margin-top: 60px;
   font-weight: bold;
+}
+
+#sidebar .sidebar-spacing {
+  margin-top: 60px;
 }
 
 #sidebar img{
